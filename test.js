@@ -1,1 +1,1 @@
-export default {"name":"zcxzxc","pwd":"zxczx"}
+export default {"name":"获取评论","pwd":"得到的"}
